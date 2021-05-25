@@ -1,0 +1,32 @@
+[
+    {
+        "nom": "Simon Deschenes",
+        "noDA": "DESS123456",
+        "programme": "420",
+        "age": 43
+    },
+    {
+        "nom": "Marcel Brisebois",
+        "noDA": "BRIM896745",
+        "programme": "412",
+        "age": 21
+    },
+    {
+        "nom": "John Doe",
+        "noDA": "DOEJ123456",
+        "programme": "201",
+        "age": 21
+    },
+    {
+        "nom": "John Doe",
+        "noDA": "DOEJ123456",
+        "programme": "201",
+        "age": 21
+    },
+    {
+        "nom": "John Doe",
+        "noDA": "DOEJ123456",
+        "programme": "201",
+        "age": 21
+    }
+]
